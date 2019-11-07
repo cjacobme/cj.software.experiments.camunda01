@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>cj.software.experiments</groupId>
-  <artifactId>simple-demo</artifactId>
+  <artifactId>camunda-01</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <packaging>war</packaging>
